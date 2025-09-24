@@ -1,6 +1,6 @@
 # Finance Calculator with Java Swing  
 
-<img src="IMAGE/FinanceCalculator_Overview.gif" alt="Finance Calculator Overview GIF">  
+<img src="IMAGE/Interface.gif" alt="Finance Calculator Overview GIF">  
 
 ---
 
@@ -68,3 +68,4 @@ This project demonstrates mastery of **Java programming and GUI design**:
 
 The **Finance Calculator** shows how **Java Swing applications** can be used for practical financial planning.  
 By combining simple inputs, accurate calculations, and visual insights, this project helps users estimate their future wealth and compare different investment strategies.  
+
